@@ -11,7 +11,7 @@ import time
 import copy
 import re
 
-datapath = f"./weather_data/weather_small_dataset.txt"
+datapath = f"./weather_data/weather_dataset.txt"
 program_path = f"./weather_programs/w.txt"
 dataset = load_dataset(datapath)
 coalescing_d(dataset)

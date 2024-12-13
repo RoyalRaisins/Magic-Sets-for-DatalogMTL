@@ -9,7 +9,7 @@ from meteor_reasoner.canonical.utils import fact_entailment
 import time
 import os
 
-datapath = f"./weather_data/weather_small_dataset.txt"
+datapath = f"./weather_data/weather_dataset.txt"
 
 rulepath = f"./weather_programs/w.txt"
 

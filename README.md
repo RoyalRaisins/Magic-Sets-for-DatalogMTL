@@ -2,14 +2,13 @@
 
 We implemented our algorithm1 and evaluated it on LUBM<sub>t</sub>(Wang et al. 2022), a temporal version of LUBM (Guo,Pan, and Heflin 2005), on iTemporal (Bellomarini, Nissl,and Sallinger 2022), and on the meteorological (Wang et al. 2022) benchmarks using MeTeoR (Wałe¸ga et al. 2023) to see how the magic programs fare against the original programs in terms of query answering. The three test programs have 85, 11, and 4 rules, respectively.
 
-This repository contains 11 datasets (5 for iTemporal 10^1 to 10^5, 5 for LUBM<sub>t</sub> 10^2 to 10^6, 1 for the meteorological benchmark) and 3 programs, the source code of our magic sets transformation implementation, the adapted MeTeoR DatalogMTL reasoner, and the source code for running our experiments. Due to size limit, we provided a smaller example datasets the meteorological benchmark.
-
+This repository contains 11 datasets (5 for iTemporal 10^1 to 10^5, 5 for LUBM<sub>t</sub> 10^2 to 10^6, 1 for the meteorological benchmark) and 3 programs, the source code of our magic sets transformation implementation, the adapted MeTeoR DatalogMTL reasoner, and the source code for running our experiments. Due to Github's file size limit, we provided a subset of the dataset we used for the meteorological benchmark. The full dataset is available via the following link: . Once the full dataset is downloaded, place it in the MagicMTL/weather/weather_data folder to replace the weather_dataset.txt file. 
 ## Structure
 
 The structure of the repository is as follows (some folders are initially empty):
 
 ```
-Magic_MTL/
+MagicMTL/
 ├── datasetname/
 │   ├── datasetname_data/
 │   ├── datasetname_programs/
@@ -64,8 +63,11 @@ Our setup uses conda to manage the environment.
 
 Example OS version: Fedora Linux 40
 
+This is a set of bash commands to set up experiment environment.
+
 ```bash
-cd Magic_MTL/
+git clone https://github.com/RoyalRaisins/MagicMTL.git
+cd MagicMTL/
 conda create -n MagicSet python=3.7
 conda activate MagicSet
 pip install -r requirements.txt
@@ -119,7 +121,7 @@ cd ..
 
 ### Weather
 
-Due to the size limit, we provided a smaller meteorological dataset as an example. Follow the steps below to run experiment queries on the example dataset, and the results will be saved in the corresponding folders and printed to the console:
+Due to file size limit of Github, we included a smaller meteorological dataset as an example. Follow the steps below to run experiment queries on the example dataset, and the results will be saved in the corresponding folders and printed to the console:
 
 ```bash
 cd ./weather
@@ -128,9 +130,9 @@ cd ./weather
 # Run the entailed queries with the baseline program
 python weather_baseline.py
 # Run the entailed queries with magic programs
-python weather_small_magic_fixed_query_entailed.py
+python weather_magic_fixed_query_entailed.py
 # Run the not entailed queries with magic programs
-python weather_small_magic_fixed_query_not_entailed.py
+python weather_magic_fixed_query_not_entailed.py
 cd ..
 ```
 
