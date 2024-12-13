@@ -1,0 +1,7 @@
+Stored fact information:
+Faculty(ID2) => Min Interval: 4, Max Interval: 16
+Faculty(ID15) => Min Interval: 14, Max Interval: 47
+Faculty(ID28) => Min Interval: 10, Max Interval: 50
+Faculty(ID33) => Min Interval: 0, Max Interval: 22
+Faculty(ID53) => Min Interval: 5, Max Interval: 50
+Faculty(ID58) => Min Interval: 25, Max Interval: 52

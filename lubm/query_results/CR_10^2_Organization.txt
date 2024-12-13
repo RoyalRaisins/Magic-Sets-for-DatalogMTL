@@ -1,0 +1,7 @@
+Stored fact information:
+Organization(ID3) => Min Interval: 1, Max Interval: 12
+Organization(ID5) => Min Interval: 4, Max Interval: 50
+Organization(ID9) => Min Interval: 0, Max Interval: 50
+Organization(ID12) => Min Interval: 2, Max Interval: 45
+Organization(ID49) => Min Interval: 11, Max Interval: 40
+Organization(ID55) => Min Interval: 1, Max Interval: 33

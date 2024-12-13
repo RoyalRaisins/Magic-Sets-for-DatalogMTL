@@ -1,0 +1,25 @@
+Stored fact information:
+g4864(2.0,3.0) => Min Interval: 11200, Max Interval: 19800
+g4864(2.0,5.0) => Min Interval: 11200, Max Interval: 19800
+g4864(2.0,7.0) => Min Interval: 11200, Max Interval: 19800
+g4864(2.0,9.0) => Min Interval: 11200, Max Interval: 19800
+g4864(3.0,3.0) => Min Interval: 11000, Max Interval: 19800
+g4864(3.0,5.0) => Min Interval: 11200, Max Interval: 19800
+g4864(3.0,7.0) => Min Interval: 11000, Max Interval: 19800
+g4864(3.0,9.0) => Min Interval: 11000, Max Interval: 19800
+g4864(4.0,3.0) => Min Interval: 11200, Max Interval: 19800
+g4864(4.0,5.0) => Min Interval: 11200, Max Interval: 19800
+g4864(4.0,7.0) => Min Interval: 11200, Max Interval: 19800
+g4864(4.0,9.0) => Min Interval: 11200, Max Interval: 19800
+g4864(5.0,3.0) => Min Interval: 11000, Max Interval: 19800
+g4864(5.0,5.0) => Min Interval: 11200, Max Interval: 19800
+g4864(5.0,7.0) => Min Interval: 11000, Max Interval: 19800
+g4864(5.0,9.0) => Min Interval: 11000, Max Interval: 19800
+g4864(7.0,3.0) => Min Interval: 11000, Max Interval: 19800
+g4864(7.0,5.0) => Min Interval: 11200, Max Interval: 19800
+g4864(7.0,7.0) => Min Interval: 11000, Max Interval: 19800
+g4864(7.0,9.0) => Min Interval: 11000, Max Interval: 19800
+g4864(9.0,3.0) => Min Interval: 10000, Max Interval: 19800
+g4864(9.0,5.0) => Min Interval: 11200, Max Interval: 19800
+g4864(9.0,7.0) => Min Interval: 11000, Max Interval: 19800
+g4864(9.0,9.0) => Min Interval: 11000, Max Interval: 19800

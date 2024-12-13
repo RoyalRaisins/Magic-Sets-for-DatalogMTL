@@ -1,0 +1,12 @@
+Stored fact information:
+g4862(8.0,71.0) => Min Interval: 1200, Max Interval: 19800
+g4862(8.0,79.0) => Min Interval: 1200, Max Interval: 19800
+g4862(9.0,40.0) => Min Interval: 1200, Max Interval: 19800
+g4862(9.0,85.0) => Min Interval: 1200, Max Interval: 19800
+g4862(11.0,25.0) => Min Interval: 10200, Max Interval: 19800
+g4862(33.0,92.0) => Min Interval: 1200, Max Interval: 19800
+g4862(40.0,55.0) => Min Interval: 1200, Max Interval: 19800
+g4862(72.0,4.0) => Min Interval: 1200, Max Interval: 19800
+g4862(79.0,8.0) => Min Interval: 200, Max Interval: 19800
+g4862(79.0,14.0) => Min Interval: 10200, Max Interval: 19800
+g4862(79.0,29.0) => Min Interval: 1200, Max Interval: 19800

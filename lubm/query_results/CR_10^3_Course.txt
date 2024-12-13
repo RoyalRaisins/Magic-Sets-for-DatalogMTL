@@ -1,0 +1,23 @@
+Stored fact information:
+Course(ID14) => Min Interval: 26, Max Interval: 35
+Course(ID59) => Min Interval: 22, Max Interval: 50
+Course(ID62) => Min Interval: 10, Max Interval: 34
+Course(ID73) => Min Interval: 10, Max Interval: 44
+Course(ID81) => Min Interval: 12, Max Interval: 38
+Course(ID85) => Min Interval: 1, Max Interval: 46
+Course(ID137) => Min Interval: 11, Max Interval: 30
+Course(ID176) => Min Interval: 30, Max Interval: 41
+Course(ID201) => Min Interval: 26, Max Interval: 40
+Course(ID229) => Min Interval: 38, Max Interval: 46
+Course(ID239) => Min Interval: 0, Max Interval: 50
+Course(ID242) => Min Interval: 17, Max Interval: 49
+Course(ID249) => Min Interval: 2, Max Interval: 44
+Course(ID267) => Min Interval: 0, Max Interval: 25
+Course(ID279) => Min Interval: 1, Max Interval: 46
+Course(ID319) => Min Interval: 22, Max Interval: 31
+Course(ID327) => Min Interval: 13, Max Interval: 44
+Course(ID329) => Min Interval: 26, Max Interval: 43
+Course(ID349) => Min Interval: 3, Max Interval: 28
+Course(ID445) => Min Interval: 20, Max Interval: 49
+Course(ID505) => Min Interval: 3, Max Interval: 43
+Course(ID524) => Min Interval: 25, Max Interval: 45

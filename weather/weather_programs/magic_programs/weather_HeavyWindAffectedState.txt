@@ -1,0 +1,3 @@
+magic_HeavyWind_f:-magic_HeavyWindAffectedState_b(X)
+HeavyWindAffectedState(X):-magic_HeavyWindAffectedState_b(X), HeavyWind(Y), LocatedInState(Y,X)
+Boxminus[0,1]HeavyWind(X):-Diamondminus[0,1]magic_HeavyWind_f, Boxminus[0,1]HeavyWindForce(X)

@@ -1,0 +1,9 @@
+Stored fact information:
+Chair(ID320) => Min Interval: 8, Max Interval: 46
+Chair(ID1986) => Min Interval: 17, Max Interval: 41
+Chair(ID2956) => Min Interval: 15, Max Interval: 35
+Chair(ID4140) => Min Interval: 10, Max Interval: 37
+Chair(ID4891) => Min Interval: 4, Max Interval: 35
+Chair(ID6268) => Min Interval: 32, Max Interval: 40
+Chair(ID7648) => Min Interval: 12, Max Interval: 37
+Chair(ID8947) => Min Interval: 2, Max Interval: 39

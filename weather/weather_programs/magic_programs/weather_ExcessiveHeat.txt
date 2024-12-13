@@ -1,0 +1,1 @@
+Boxminus[0,1]ExcessiveHeat(X):- Diamondminus[0,1]TempAbove41(X), Boxminus[0,1]TempAbove24(X), Diamondminus[0,1]magic_ExcessiveHeat_b(X)

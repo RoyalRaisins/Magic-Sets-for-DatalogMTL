@@ -1,0 +1,7 @@
+Stored fact information:
+Employee(ID2) => Min Interval: 4, Max Interval: 16
+Employee(ID15) => Min Interval: 14, Max Interval: 47
+Employee(ID28) => Min Interval: 10, Max Interval: 50
+Employee(ID33) => Min Interval: 0, Max Interval: 22
+Employee(ID53) => Min Interval: 5, Max Interval: 50
+Employee(ID58) => Min Interval: 25, Max Interval: 52

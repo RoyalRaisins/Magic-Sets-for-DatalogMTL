@@ -1,0 +1,5 @@
+Stored fact information:
+FullProfessor(ID16) => Min Interval: 18, Max Interval: 99
+FullProfessor(ID26) => Min Interval: 11, Max Interval: 99
+FullProfessor(ID175) => Min Interval: 9, Max Interval: 99
+FullProfessor(ID417) => Min Interval: 18, Max Interval: 99

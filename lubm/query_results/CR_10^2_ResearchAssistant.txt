@@ -1,0 +1,5 @@
+Stored fact information:
+ResearchAssistant(ID4) => Min Interval: 17, Max Interval: 18
+ResearchAssistant(ID15) => Min Interval: 16, Max Interval: 46
+ResearchAssistant(ID28) => Min Interval: 12, Max Interval: 49
+ResearchAssistant(ID58) => Min Interval: 27, Max Interval: 51

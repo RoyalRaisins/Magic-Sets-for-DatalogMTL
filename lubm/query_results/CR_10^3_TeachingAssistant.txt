@@ -1,0 +1,6 @@
+Stored fact information:
+TeachingAssistant(ID17) => Min Interval: 7, Max Interval: 44
+TeachingAssistant(ID21) => Min Interval: 15, Max Interval: 49
+TeachingAssistant(ID89) => Min Interval: 5, Max Interval: 43
+TeachingAssistant(ID136) => Min Interval: 11, Max Interval: 30
+TeachingAssistant(ID144) => Min Interval: 3, Max Interval: 46

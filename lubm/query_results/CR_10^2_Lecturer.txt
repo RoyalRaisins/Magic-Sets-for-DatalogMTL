@@ -1,0 +1,4 @@
+Stored fact information:
+Lecturer(ID15) => Min Interval: 14, Max Interval: 41
+Lecturer(ID28) => Min Interval: 10, Max Interval: 44
+Lecturer(ID58) => Min Interval: 25, Max Interval: 46

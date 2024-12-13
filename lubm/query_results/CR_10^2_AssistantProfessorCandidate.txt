@@ -1,0 +1,4 @@
+Stored fact information:
+AssistantProfessorCandidate(ID15) => Min Interval: 15, Max Interval: 44
+AssistantProfessorCandidate(ID28) => Min Interval: 11, Max Interval: 47
+AssistantProfessorCandidate(ID58) => Min Interval: 26, Max Interval: 49

@@ -1,0 +1,14 @@
+Stored fact information:
+Publication(ID0) => Min Interval: 18, Max Interval: 47
+Publication(ID6) => Min Interval: 22, Max Interval: 48
+Publication(ID13) => Min Interval: 4, Max Interval: 44
+Publication(ID24) => Min Interval: 25, Max Interval: 50
+Publication(ID29) => Min Interval: 14, Max Interval: 33
+Publication(ID34) => Min Interval: 15, Max Interval: 47
+Publication(ID36) => Min Interval: 2, Max Interval: 26
+Publication(ID38) => Min Interval: 7, Max Interval: 45
+Publication(ID43) => Min Interval: 10, Max Interval: 28
+Publication(ID50) => Min Interval: 4, Max Interval: 27
+Publication(ID59) => Min Interval: 9, Max Interval: 47
+Publication(ID72) => Min Interval: 5, Max Interval: 39
+Publication(ID79) => Min Interval: 2, Max Interval: 39

@@ -1,0 +1,8 @@
+Stored fact information:
+FullProfessorCandidate(ID15) => Min Interval: 9, Max Interval: 21
+FullProfessorCandidate(ID21) => Min Interval: 23, Max Interval: 53
+FullProfessorCandidate(ID89) => Min Interval: 11, Max Interval: 47
+FullProfessorCandidate(ID136) => Min Interval: 25, Max Interval: 43
+FullProfessorCandidate(ID226) => Min Interval: 14, Max Interval: 48
+FullProfessorCandidate(ID336) => Min Interval: 9, Max Interval: 46
+FullProfessorCandidate(ID374) => Min Interval: 15, Max Interval: 30

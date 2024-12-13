@@ -1,0 +1,24 @@
+Stored fact information:
+TeachingAssistant(ID8) => Min Interval: 20, Max Interval: 50
+TeachingAssistant(ID32) => Min Interval: 5, Max Interval: 46
+TeachingAssistant(ID90) => Min Interval: 1, Max Interval: 38
+TeachingAssistant(ID108) => Min Interval: 2, Max Interval: 50
+TeachingAssistant(ID192) => Min Interval: 12, Max Interval: 39
+TeachingAssistant(ID195) => Min Interval: 1, Max Interval: 44
+TeachingAssistant(ID210) => Min Interval: 16, Max Interval: 48
+TeachingAssistant(ID219) => Min Interval: 11, Max Interval: 48
+TeachingAssistant(ID263) => Min Interval: 0, Max Interval: 45
+TeachingAssistant(ID340) => Min Interval: 5, Max Interval: 48
+TeachingAssistant(ID356) => Min Interval: 1, Max Interval: 40
+TeachingAssistant(ID392) => Min Interval: 1, Max Interval: 44
+TeachingAssistant(ID456) => Min Interval: 10, Max Interval: 47
+TeachingAssistant(ID463) => Min Interval: 0, Max Interval: 48
+TeachingAssistant(ID475) => Min Interval: 7, Max Interval: 41
+TeachingAssistant(ID499) => Min Interval: 7, Max Interval: 45
+TeachingAssistant(ID503) => Min Interval: 6, Max Interval: 50
+TeachingAssistant(ID509) => Min Interval: 7, Max Interval: 42
+TeachingAssistant(ID547) => Min Interval: 25, Max Interval: 50
+TeachingAssistant(ID699) => Min Interval: 11, Max Interval: 46
+TeachingAssistant(ID804) => Min Interval: 1, Max Interval: 37
+TeachingAssistant(ID1062) => Min Interval: 3, Max Interval: 30
+TeachingAssistant(ID1896) => Min Interval: 2, Max Interval: 48

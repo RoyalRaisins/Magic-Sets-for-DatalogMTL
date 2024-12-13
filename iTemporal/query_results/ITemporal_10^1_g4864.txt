@@ -1,0 +1,2 @@
+Stored fact information:
+g4864(1.0,1.0) => Min Interval: 11000, Max Interval: 19800

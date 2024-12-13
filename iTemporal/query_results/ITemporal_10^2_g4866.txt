@@ -1,0 +1,5 @@
+Stored fact information:
+g4866(3.0,3.0) => Min Interval: 1000, Max Interval: 19800
+g4866(3.0,7.0) => Min Interval: 1200, Max Interval: 19800
+g4866(3.0,9.0) => Min Interval: 1200, Max Interval: 19800
+g4866(5.0,7.0) => Min Interval: 1200, Max Interval: 19800

@@ -1,0 +1,2 @@
+Stored fact information:
+Chair(ID96) => Min Interval: 21, Max Interval: 39

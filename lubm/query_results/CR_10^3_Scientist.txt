@@ -1,0 +1,5 @@
+Stored fact information:
+Scientist(ID16) => Min Interval: 17, Max Interval: 99
+Scientist(ID26) => Min Interval: 10, Max Interval: 99
+Scientist(ID175) => Min Interval: 8, Max Interval: 99
+Scientist(ID417) => Min Interval: 17, Max Interval: 99

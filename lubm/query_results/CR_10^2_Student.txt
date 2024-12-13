@@ -1,0 +1,2 @@
+Stored fact information:
+Student(ID4) => Min Interval: 7, Max Interval: 27

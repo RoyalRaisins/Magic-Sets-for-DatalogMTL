@@ -1,0 +1,2 @@
+Stored fact information:
+GoodDepartment(ID11) => Min Interval: 2, Max Interval: 50

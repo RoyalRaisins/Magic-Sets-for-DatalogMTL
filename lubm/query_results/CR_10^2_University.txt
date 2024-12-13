@@ -1,0 +1,6 @@
+Stored fact information:
+University(ID3) => Min Interval: 1, Max Interval: 12
+University(ID5) => Min Interval: 4, Max Interval: 50
+University(ID12) => Min Interval: 2, Max Interval: 45
+University(ID49) => Min Interval: 11, Max Interval: 40
+University(ID55) => Min Interval: 1, Max Interval: 33

@@ -1,0 +1,10 @@
+Stored fact information:
+GoodDepartment(ID23) => Min Interval: 6, Max Interval: 50
+GoodDepartment(ID1928) => Min Interval: 3, Max Interval: 50
+GoodDepartment(ID2858) => Min Interval: 3, Max Interval: 50
+GoodDepartment(ID3855) => Min Interval: 3, Max Interval: 50
+GoodDepartment(ID4905) => Min Interval: 6, Max Interval: 50
+GoodDepartment(ID6257) => Min Interval: 4, Max Interval: 50
+GoodDepartment(ID7677) => Min Interval: 2, Max Interval: 50
+GoodDepartment(ID8891) => Min Interval: 3, Max Interval: 50
+GoodDepartment(ID9953) => Min Interval: 6, Max Interval: 50

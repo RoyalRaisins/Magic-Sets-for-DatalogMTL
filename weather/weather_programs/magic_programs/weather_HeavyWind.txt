@@ -1,0 +1,1 @@
+Boxminus[0,1]HeavyWind(X):-Diamondminus[0,1]magic_HeavyWind_b(X), Boxminus[0,1]HeavyWindForce(X)

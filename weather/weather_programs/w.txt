@@ -1,0 +1,4 @@
+Boxminus[0,1]ExcessiveHeat(X):-Diamondminus[0,1]TempAbove41(X),Boxminus[0,1]TempAbove24(X)
+HeatAffectedState(X):-LocatedInState(Y,X),ExcessiveHeat(Y)
+Boxminus[0,1]HeavyWind(X):-Boxminus[0,1]HeavyWindForce(X)
+HeavyWindAffectedState(X):-LocatedInState(Y,X),HeavyWind(Y)

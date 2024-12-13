@@ -1,0 +1,3 @@
+Stored fact information:
+Course(ID27) => Min Interval: 4, Max Interval: 37
+Course(ID54) => Min Interval: 5, Max Interval: 50
