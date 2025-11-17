@@ -3,6 +3,11 @@
 We implemented our algorithm1 and evaluated it on LUBM<sub>t</sub>(Wang et al. 2022), a temporal version of LUBM (Guo,Pan, and Heflin 2005), on iTemporal (Bellomarini, Nissl,and Sallinger 2022), and on the meteorological (Wang et al. 2022) benchmarks using MeTeoR (Wałe¸ga et al. 2023) to see how the magic programs fare against the original programs in terms of query answering. The three test programs have 85, 11, and 4 rules, respectively.
 
 This repository contains 11 datasets (5 for iTemporal 10^1 to 10^5, 5 for LUBM<sub>t</sub> 10^2 to 10^6, 1 for the meteorological benchmark) and 3 programs, the source code of our magic sets transformation implementation, the adapted MeTeoR DatalogMTL reasoner, and the source code for running our experiments. Due to Github's file size limit, we provided a subset of the dataset we used for the meteorological benchmark, which is stored in MagicMTL/weather/weather_data/weather_dataset.txt. The full dataset is stored in  MagicMTL/weather/weather_data/weather_dataset.zip and 6 compressed volumes. You can unzip the compressed volumes and derive another file named weather_dataset.txt but containing the full dataset. Use this file to replace the file containing a subset if you wish to run the experiments on the full dataset. 
+
+## Proofs
+
+For a proof of correctness of our algorithm, please refer to the appendix of the [arXiv version of our paper](https://arxiv.org/abs/2412.07259). 
+
 ## Structure
 
 The structure of the repository is as follows (some folders are initially empty):
